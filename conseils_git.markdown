@@ -100,12 +100,12 @@ Seulement les branches locales
 $ git branch
 ```
 
-Les branches sur tous les remotes
+4. Les branches sur tous les remotes
 ```sh
 $ git branch -r
 ```
 
-4. renomer une branche 
+5. renomer une branche 
 ```sh
 $ git branch -m <nom de la branche actuellement> <nouveau nom de la branche>
 ```
